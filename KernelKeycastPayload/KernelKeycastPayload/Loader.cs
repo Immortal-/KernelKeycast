@@ -1,7 +1,6 @@
-﻿
-namespace KernelKeycastPayload
+﻿namespace KernelKeycastPayload
 {
-    class Loader
+    internal class Loader
     {
         public static void Main()
         {

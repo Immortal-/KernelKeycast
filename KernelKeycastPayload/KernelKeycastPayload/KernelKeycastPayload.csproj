@@ -39,6 +39,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DexCryptMin.cs" />
     <Compile Include="Keylogger.cs" />
     <Compile Include="Loader.cs" />
     <Compile Include="NativeMethods.cs" />
